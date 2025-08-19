@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AdminUserIndexComponent() {
+export default function FrontendLoginComponent() {
   return (
     <div>
       

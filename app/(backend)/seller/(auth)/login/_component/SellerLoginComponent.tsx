@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AdminLoginComponent() {
+export default function SellerLoginComponent() {
   return (
     <div>
       
